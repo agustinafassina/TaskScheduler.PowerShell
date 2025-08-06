@@ -6,6 +6,6 @@ This repository contains PowerShell scripts that create and manage scheduled tas
 powershell 1-task.ps1
 ```
 
-Result:
+### Result
 <img src="result.png" alt="Logo del proyecto" width="400" height="400">
 
